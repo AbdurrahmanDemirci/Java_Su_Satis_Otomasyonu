@@ -1,6 +1,6 @@
 # Java_Su_Satis_Otomasyonu
 JAVA - Bu proje su satış yapan bayiilerin kullanabileceği satış işlemleri pratik olarak işlenmesi sağlandı.
-Proje dahilinde veri tabanı Mysql ile PhpMyAdmin arayüz kullanılarak tasarlandı. Proje uygulamasında kullanıcı her işleme kolayca ulaşılması sağlanmıştır. Örn: Kullanıcı, önce Mysql kayıtlı bir kullanıcı girişi yapmaktadır. Sonrasında müşteri kayıtlı mı diye arama bölümünden ulaşarak işlem yapabilmektedir. Yok ise ekleme, var ise sipariş ekleme butonu ile işlemini tamamlamaktadır. Bununla beraber müşteri düzenleme, silme, sipariş için durumu , günlük notlar(txt), güncel saat, kısayol tuşları, günlük hava durumu(APİ), dolar kurları (xml), giriş yapan kullanıcı karşılama gibi bir çok işlemi tek bir arayüz içersinde gerçekleştirilmiş.
+Proje dahilinde veri tabanı Mysql ile PhpMyAdmin arayüz kullanılarak tasarlandı. Kullanıcı hatalı işlem yapmamsı için bir çok denetim yapımıştır. Proje uygulamasında kullanıcı her işleme kolayca ulaşılması sağlanmıştır. Örn: Kullanıcı, önce Mysql kayıtlı bir kullanıcı girişi yapmaktadır. Sonrasında müşteri kayıtlı mı diye arama bölümünden ulaşarak işlem yapabilmektedir. Yok ise ekleme, var ise sipariş ekleme butonu ile işlemini tamamlamaktadır. Bununla beraber müşteri düzenleme, silme, sipariş için durumu , günlük notlar(txt), güncel saat, kısayol tuşları, günlük hava durumu(APİ), dolar kurları (xml), giriş yapan kullanıcı karşılama gibi bir çok işlemi tek bir arayüz içersinde gerçekleştirilmiş.
 
 
 
